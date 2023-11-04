@@ -1,3 +1,5 @@
+Link Mockups UX/UI
+[Mockups UI y UX.docx](https://github.com/KaynRB/Proyecto-Catedra---DAW404-/files/13257817/Mockups.UI.y.UX.docx)
 
 
 Link Trello
