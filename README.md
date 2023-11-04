@@ -1,5 +1,3 @@
-Link Mockups UX/UI
-[Uploading Mockups UI y UX.docx…]()
 
 
 Link Trello
