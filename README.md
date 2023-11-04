@@ -10,7 +10,8 @@ Descripcion
 
 
 Link Mockups UX/UI
-[Uploading Mockups UI y UX.pdf…]()
+[Uploading Mockups UI y UX.docx…]()
+
 
 
 Link Trello
