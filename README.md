@@ -4,3 +4,5 @@ Link Mockups UX/UI
 
 Link Trello
 https://trello.com/invite/b/pm1hqRzy/ATTI9483638915b1e0b95fd0f8136c254d80CED35C96/proyecto-catedra-daw404-g02l
+
+Link Manual de Usuario y Técnico: https://drive.google.com/drive/folders/1eEZCoI3fVV8OCLWByhj_gRVLdp-a2gO9?usp=sharing
